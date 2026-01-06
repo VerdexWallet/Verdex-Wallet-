@@ -3,7 +3,7 @@
 The first privacy-focused, multi-chain wallet built entirely on a mobile device.
 
 > Status: Active Development (Alpha)
-> Built on: Android (Acode / Spck Editor)
+> Built on: Android (Acode Editor)
 > License: Proprietary (All Rights Reserved)
 
 💡 About
