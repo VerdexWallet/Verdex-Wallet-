@@ -1,10 +1,10 @@
-Verdex Wallet
+# Verdex Wallet
 
 The first privacy-focused, multi-chain wallet built entirely on a mobile device.
 
 > Status: Active Development (Alpha)
 > Built on: Android (Acode / Spck Editor)
-> License: MIT
+> License: Proprietary (All Rights Reserved)
 
 💡 About
 Verdex is a self-custodial cryptocurrency wallet designed to bridge the gap between CEX and DEX tracking without sacrificing user privacy.
@@ -54,4 +54,6 @@ If you want to support open-source, privacy-first tools, please consider donatin
 [https://giveth.io/project/verdex-wallet]
 
 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright (c) 2026 Verdex Wallet. All Rights Reserved.
+This code is proprietary and provided for verification purposes only. You may not use, copy, or modify it.
+
